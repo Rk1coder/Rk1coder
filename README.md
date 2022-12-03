@@ -7,7 +7,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/rabia_kiratli_/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@rabia42konya08) 
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=Rk1coder&show_icons=true&theme=black)
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=Rk1coder&show_icons=true&theme=radical)
 
 
 <!---
