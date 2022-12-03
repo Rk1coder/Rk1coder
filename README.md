@@ -2,14 +2,16 @@
 - 👀 I’m interested in Programming and technology
 - 🌱 I’m currently learning mobil anda game developing
 - 💞️ I’m looking to collaborate on my future dreams
+ <span class="wave">👋</span>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-darkblue?style=flat-quare&labelColor=darkblue&logo=Linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/rabia-k%C4%B1ratl%C4%B1-8a29891b5/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/rabia_kiratli_/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@rabia42konya08) 
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=Rk1coder&show_icons=true&theme=radical)
+
 <img src="https://miro.medium.com/max/103/1*CEW1sqkC7mMJ7vtqzUhj5g.png" width="auto">
-<img src="https://media.tenor.com/2de92CTImboAAAAd/dcs-sufa.gif" width="auto">
+
 
 
 
