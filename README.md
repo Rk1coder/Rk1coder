@@ -1,9 +1,5 @@
 <img src="https://miro.medium.com/max/103/1*CEW1sqkC7mMJ7vtqzUhj5g.png" width="auto">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rk1coder&repo=github-readme-stats)]()
-
-
-
 
 
 - 👋 Hi, I’m @Rk1coder
