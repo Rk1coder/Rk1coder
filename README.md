@@ -2,7 +2,9 @@
 - 👀 I’m interested in Programming and technology
 - 🌱 I’m currently learning mobil anda game developing
 - 💞️ I’m looking to collaborate on my future dreams
-[![Top Langs](https://github.com/Rk1coder/Urban-routing-and-information-app)](https://github.com/anuraghazra/github-readme-stats)
+- 
+[![Top Langs](https://github.com/Rk1coder/Urban-routing-and-information-app)](https://github.com/Rk1coder/Urban-routing-and-information-app)
+
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-darkblue?style=flat-quare&labelColor=darkblue&logo=Linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/rabia-k%C4%B1ratl%C4%B1-8a29891b5/)
