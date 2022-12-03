@@ -1,5 +1,8 @@
 <img src="https://miro.medium.com/max/103/1*CEW1sqkC7mMJ7vtqzUhj5g.png" width="auto">
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rk1coder&repo=github-readme-stats)]()
+
+
 
 
 
@@ -8,7 +11,7 @@
 - 🌱 I’m currently learning mobil anda game developing
 - 💞️ I’m looking to collaborate on my future dreams
 - 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rk1coder&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rk1coder&layout=compact)]()
 
 
 
