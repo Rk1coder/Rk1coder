@@ -2,19 +2,8 @@
 - 👀 I’m interested in Programming and technology
 - 🌱 I’m currently learning mobil anda game developing
 - 💞️ I’m looking to collaborate on my future dreams
- <span class="wave">👋</span>
- 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+[![Top Langs](https://github.com/Rk1coder/Urban-routing-and-information-app)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-darkblue?style=flat-quare&labelColor=darkblue&logo=Linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/rabia-k%C4%B1ratl%C4%B1-8a29891b5/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/rabia_kiratli_/)
