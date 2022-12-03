@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning mobil anda game developing
 - 💞️ I’m looking to collaborate on my future dreams
 - 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?rk1coder=Rabiakiratli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?rk1coder=Rabiakiratli&layout=compact)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Rk1coder))
 
 
 
