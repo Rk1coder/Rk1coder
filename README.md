@@ -1,3 +1,8 @@
+                                                          <img src="https://miro.medium.com/max/103/1*CEW1sqkC7mMJ7vtqzUhj5g.png" width="auto">
+
+
+
+
 - 👋 Hi, I’m @Rk1coder
 - 👀 I’m interested in Programming and technology
 - 🌱 I’m currently learning mobil anda game developing
@@ -14,7 +19,7 @@
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=Rk1coder&show_icons=true&theme=radical)
 
-<img src="https://miro.medium.com/max/103/1*CEW1sqkC7mMJ7vtqzUhj5g.png" width="auto">
+
 
 
 
