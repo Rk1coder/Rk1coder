@@ -1,4 +1,4 @@
-                                                          <img src="https://miro.medium.com/max/103/1*CEW1sqkC7mMJ7vtqzUhj5g.png" width="auto">
+<img src="https://miro.medium.com/max/103/1*CEW1sqkC7mMJ7vtqzUhj5g.png" width="auto">
 
 
 
