@@ -4,27 +4,17 @@
 - 💞️ I’m looking to collaborate on my future dreams
  <span class="wave">👋</span>
  
- .wave {
-  animation-name: wave-animation;  /* Name of @keyframes element below */
-  animation-duration: .75s;  /* Wave speed */
-  animation-iteration-count: infinite;
-  animation-timing-function: linear;
-  animation-play-state: paused;
-  transform-origin: 70% 70%;  /* Pivot from bottom-left palm */
-  display: inline-block;
-  font-size: 8rem;
-}
-
-.wave:hover {
-  animation-play-state: running; /* Play animation on mouse hover */
-}
-
-@keyframes wave-animation {
-  0% { transform: rotate( 0deg ) }
-  25% { transform: rotate( -10deg ) }
-  75% { transform: rotate( 12deg ) }
-  100% { transform: rotate( 0deg ) }
-}
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-darkblue?style=flat-quare&labelColor=darkblue&logo=Linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/rabia-k%C4%B1ratl%C4%B1-8a29891b5/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/rabia_kiratli_/)
