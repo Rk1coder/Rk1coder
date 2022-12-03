@@ -3,9 +3,10 @@
 - 🌱 I’m currently learning mobil anda game developing
 - 💞️ I’m looking to collaborate on my future dreams
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/rabia_kiratli_/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-C13584?style=flat-quare&labelColor=darkblue&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/rabia_kiratli_/)
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/rabia_kiratli_/)
+
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@rabia42konya08) 
 
 <!---
