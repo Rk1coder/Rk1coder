@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on my future dreams
 
 
-[![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](www.linkedin.com/in/rabia-kıratlı-8a29891b5
-)
+[![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](www.linkedin.com/in/rabia-kıratlı-8a29891b5)
 
 
 <!---
