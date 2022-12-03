@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning mobil anda game developing
 - 💞️ I’m looking to collaborate on my future dreams
  <span class="wave">👋</span>
+ 
  .wave {
   animation-name: wave-animation;  /* Name of @keyframes element below */
   animation-duration: .75s;  /* Wave speed */
