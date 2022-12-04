@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m @Rk1coder
 - 👀 I’m interested in Programming and technology
-- 🌱 I’m currently learning mobil anda game developing
+- 🌱 I’m currently learning mobil and game developing
 - 💞️ I’m looking to collaborate on my future dreams
 
 
