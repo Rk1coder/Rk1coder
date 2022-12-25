@@ -2,10 +2,6 @@
 
 
 
-- 👋 Hi, I’m @Rk1coder
-- 👀 I’m interested in Programming and technology
-- 🌱 I’m currently learning mobil and game developing
-- 💞️ I’m looking to collaborate on my future dreams <img src="https://miro.medium.com/max/103/1*CEW1sqkC7mMJ7vtqzUhj5g.png" width="auto">
 
 
 
