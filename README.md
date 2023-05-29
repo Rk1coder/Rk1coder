@@ -1,11 +1,12 @@
 
 
 # Hi I'm Rabia <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shashiben&label=Profile%20views&color=0e75b6&style=flat" alt="shashiben" /> </p>
+<p align="left"> 
 I'm student in college. I'm based in Turkey. <br>My software level is the beginning level. <br>I keep on learning and improving myself and my codes.
 
 
-## 🌐 Socials:
+## Contact <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="38">
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rabia_kiratli_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/rabiakiratlieng/)) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rkcoder) 
 
 # 💻 Tech Stack:
