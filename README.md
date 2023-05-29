@@ -1,6 +1,7 @@
 
 
-# 💫 About Me:
+# <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shashiben&label=Profile%20views&color=0e75b6&style=flat" alt="shashiben" /> </p>
 I'm student in college. I'm based in Turkey. <br>My software level is the beginning level. <br>I keep on learning and improving myself and my codes.
 
 
