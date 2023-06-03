@@ -2,7 +2,7 @@
 
 # Hi I'm Rabia <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50>
 <p align="left"> 
-I'm student in college. I'm based in Turkey. <br>My software level is the beginning level. <br>I keep on learning and improving myself and my codes.
+I'm student in college. I'm based in Turkey. <br>I keep on learning and improving myself and my codes.
 
 
 ## Contact <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="38">
