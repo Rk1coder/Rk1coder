@@ -65,11 +65,5 @@ I'm student in college. I'm based in Turkey. <br>I keep on learning and improvin
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/rk1coder/rk1coder/output/snake.svg" alt="Snake animation" />
-
-###
-
 
 
